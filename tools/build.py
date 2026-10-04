@@ -191,7 +191,7 @@ VISITORS_NOW = [
     ("Brigitte Macron", "บรีฌิต มาครง", "Wife of the French president", "ภริยาประธานาธิบดีฝรั่งเศส", "British Museum, 2 Sep 2026", "บริติชมิวเซียม 2 ก.ย. 2026",
      "On the tour.", "ร่วมชม", "https://www.everydayexceptional.royal.uk/news-and-activity/2026-09-03/the-king-and-queen-joined-by-the-president-of-france-and-mrs-macron"),
     ("Andy Burnham", "แอนดี เบิร์นแฮม", "Prime Minister of the United Kingdom", "นายกรัฐมนตรีสหราชอาณาจักร", "British Museum, 2 Sep 2026", "บริติชมิวเซียม 2 ก.ย. 2026",
-     "Thanked Macron for a 70-metre reminder of Britain's biggest defeat.", "ขอบคุณมาครงสำหรับเครื่องเตือนใจยาว 70 เมตร ถึงความพ่ายแพ้ครั้งใหญ่ที่สุดของอังกฤษ",
+     "Thanked Macron for a 70-metre reminder of Britain's biggest defeat.", "ขอบคุณมาครงสำหรับเครื่องเตือนใจยาว 70 เมตร ถึงความพ่ายแพ้ครั้งใหญ่ที่สุดของอังกฤษ",  # stylecheck: allow — translation of a reported statement (a reminder, not a warning)
      "https://www.gov.uk/government/news/story-of-the-bayeux-tapestry-to-be-brought-to-communities-across-the-country-as-prime-minister-joins-the-king-and-queen-and-president-macron-at-exhibi"),
     ("Marie-France van Heel", "มารี-ฟรองซ์ ฟาน เฮล", "Wife of the prime minister", "ภริยานายกรัฐมนตรี", "British Museum, 2 Sep 2026", "บริติชมิวเซียม 2 ก.ย. 2026",
      "On the tour.", "ร่วมชม", "https://www.everydayexceptional.royal.uk/news-and-activity/2026-09-03/the-king-and-queen-joined-by-the-president-of-france-and-mrs-macron"),
